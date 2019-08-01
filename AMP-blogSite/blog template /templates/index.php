@@ -1,1 +1,1 @@
-<?php include_once("index.amp.html"); ?>
+<?php include_once("index.html"); ?>
